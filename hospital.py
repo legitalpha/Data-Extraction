@@ -1,7 +1,7 @@
 import csv
 import sys
 
-print("Press 1 to search hospital facility in a state \nPress 2 to search hospital facility in a city \n")
+print("Press 1 to search hospital facilities in a state \nPress 2 to search hospital facilities in a city \n")
 n = int(input())
 if n==1:
     state = input('Enter state\n')
